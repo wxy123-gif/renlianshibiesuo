@@ -34,3 +34,7 @@ RFID刷卡、AS608指纹、矩阵密码和HC-05蓝牙控制。ESP32-CAM负责图
 • 参与硬件联调和故障定位，使用串口日志、I2C扫描和摄像头初始化测试排查CH340串口占用、
   FPC排线接触、VSYNC同步异常和摄像头供电问题，提升系统稳定性和问题定位效率。
 
+
+## GitHub 仓库
+
+https://github.com/wxy123-gif/renlianshibiesuo
