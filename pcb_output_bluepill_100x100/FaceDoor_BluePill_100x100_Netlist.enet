@@ -1,0 +1,1344 @@
+{
+  "version": "2.0.0",
+  "components": {
+    "gge19": {
+      "props": {
+        "Footprint": "159dca4eba6a386c",
+        "Designator": "D1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C84256",
+        "Manufacturer": "国星光电",
+        "Manufacturer Part": "NCD0805R1",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "b1c5ed7a4f6e46d3bc6f6cc7c20f3fea|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "LED0805-RD",
+        "3D Model Transform": "79.527,49.2125,0,0,0,0,0,0,0",
+        "Lamp Holder Type": "",
+        "Illumination Color": "",
+        "Voltage - Forward(Vf)": "",
+        "Power(Watts)": "",
+        "Test Current": "",
+        "Wavelength - Dominant": "",
+        "Peak Wavelength": "",
+        "Diode Configuration": "",
+        "Lens Color": "",
+        "Color Temperature": "",
+        "Luminous Intensity": "",
+        "Viewing Angle": "",
+        "Mounting Style": "",
+        "Operating Temperature": "",
+        "Half wave width": "",
+        "Emitting Material": "",
+        "Lumens": "",
+        "ESD Withstand Voltage": "",
+        "Name": "NCD0805R1",
+        "Description": "",
+        "Device": "b3d170d667b49ef1",
+        "Unique ID": "gge19",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I22",
+        "DeviceName": "NCD0805R1",
+        "FootprintName": "LED0805-RD",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge20": {
+      "props": {
+        "Footprint": "1e723869e9d5173a",
+        "Designator": "D2",
+        "LCSC Part Name": "",
+        "Supplier Part": "C2297",
+        "Manufacturer": "KENTO",
+        "Manufacturer Part": "KT-0805G",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "6ccd75a2b5134d6ab756ecf3c14a7290|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "LED0805-RD",
+        "3D Model Transform": "79.527,49.2125,0,0,0,0,0,0,0",
+        "Lamp Holder Type": "",
+        "Illumination Color": "",
+        "Voltage - Forward(Vf)": "",
+        "Power(Watts)": "",
+        "Forward Current": "",
+        "Wavelength - Dominant": "",
+        "Peak Wavelength": "",
+        "Diode Configuration": "",
+        "Lens Color": "",
+        "Color Temperature": "",
+        "Luminous Intensity": "",
+        "Viewing Angle": "",
+        "Mounting Style": "",
+        "Operating Temperature": "",
+        "Name": "KT-0805G",
+        "Description": "",
+        "Device": "1d9d1e6786bf8570",
+        "Unique ID": "gge20",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I23",
+        "DeviceName": "KT-0805G",
+        "FootprintName": "LED0805-R-RD",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "LED2_A"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge22": {
+      "props": {
+        "Footprint": "ea90f3d9646ce3db",
+        "Designator": "H1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C492407",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-08P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "f5b96e27511e49e38545e53df2320202|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_8P-P2.54-V-M",
+        "3D Model Transform": "807.87244,98.425,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Name": "PZ254V-11-08P",
+        "Description": "",
+        "Device": "c2fe1485c5fc92e8",
+        "Unique ID": "gge22",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I25",
+        "DeviceName": "PZ254V-11-08P",
+        "FootprintName": "HDR-TH_8P-P2.54-V-M",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PA4"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PA5"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA7"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PA6"
+        },
+        "5": {
+          "name": "",
+          "number": "5",
+          "net": ""
+        },
+        "6": {
+          "name": "",
+          "number": "6",
+          "net": "GND"
+        },
+        "7": {
+          "name": "",
+          "number": "7",
+          "net": "PB0"
+        },
+        "8": {
+          "name": "",
+          "number": "8",
+          "net": "3V3"
+        }
+      }
+    },
+    "gge23": {
+      "props": {
+        "Footprint": "123a49ba9cc833c4",
+        "Designator": "H2",
+        "LCSC Part Name": "",
+        "Supplier Part": "C2691448",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-04P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "112f4d05e8d64e99ab9a333894bea4f9|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_4P-P2.54-M-LI-1X4P",
+        "3D Model Transform": "399.999,104.7242,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Name": "PZ254V-11-04P",
+        "Description": "",
+        "Device": "b476b58e93f747fa",
+        "Unique ID": "gge23",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I26",
+        "DeviceName": "PZ254V-11-04P",
+        "FootprintName": "HDR-TH_4P-P2.54-V-M",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PB11"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PB10"
+        }
+      }
+    },
+    "gge24": {
+      "props": {
+        "Footprint": "123a49ba9cc833c4",
+        "Designator": "H3",
+        "LCSC Part Name": "",
+        "Supplier Part": "C2691448",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-04P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "112f4d05e8d64e99ab9a333894bea4f9|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_4P-P2.54-M-LI-1X4P",
+        "3D Model Transform": "399.999,104.7242,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Name": "PZ254V-11-04P",
+        "Description": "",
+        "Device": "b476b58e93f747fa",
+        "Unique ID": "gge24",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I27",
+        "DeviceName": "PZ254V-11-04P",
+        "FootprintName": "HDR-TH_4P-P2.54-V-M",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "5V"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA10"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PA9"
+        }
+      }
+    },
+    "gge25": {
+      "props": {
+        "Footprint": "ea90f3d9646ce3db",
+        "Designator": "H4",
+        "LCSC Part Name": "",
+        "Supplier Part": "C492407",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-08P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "f5b96e27511e49e38545e53df2320202|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_8P-P2.54-V-M",
+        "3D Model Transform": "807.87244,98.425,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Name": "PZ254V-11-08P",
+        "Description": "",
+        "Device": "c2fe1485c5fc92e8",
+        "Unique ID": "gge25",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I28",
+        "DeviceName": "PZ254V-11-08P",
+        "FootprintName": "HDR-TH_8P-P2.54-V-M",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PB11"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PB1"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PB6"
+        },
+        "5": {
+          "name": "",
+          "number": "5",
+          "net": "PB15"
+        },
+        "6": {
+          "name": "",
+          "number": "6",
+          "net": "PB14"
+        },
+        "7": {
+          "name": "",
+          "number": "7",
+          "net": "PB13"
+        },
+        "8": {
+          "name": "",
+          "number": "8",
+          "net": "PB12"
+        }
+      }
+    },
+    "gge26": {
+      "props": {
+        "Footprint": "be6d100bd0037621",
+        "Designator": "H5",
+        "LCSC Part Name": "",
+        "Supplier Part": "C2937625",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-03P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "bd28a638fbd247be9398fd5d39c366ec|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_3P-P2.54-V-M_PZ254V-11-03P",
+        "3D Model Transform": "300.3931,100,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Supplementary Features": "",
+        "Name": "PZ254V-11-03P",
+        "Description": "",
+        "Device": "7dabb8ee95d12020",
+        "Unique ID": "gge26",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I29",
+        "DeviceName": "PZ254V-11-03P",
+        "FootprintName": "HDR-TH_3P-P2.54-V-M_PZ254V-11-03P",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "5V"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA11"
+        }
+      }
+    },
+    "gge27": {
+      "props": {
+        "Footprint": "123a49ba9cc833c4",
+        "Designator": "H6",
+        "LCSC Part Name": "",
+        "Supplier Part": "C2691448",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-04P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "112f4d05e8d64e99ab9a333894bea4f9|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_4P-P2.54-M-LI-1X4P",
+        "3D Model Transform": "399.999,104.7242,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Name": "PZ254V-11-04P",
+        "Description": "",
+        "Device": "b476b58e93f747fa",
+        "Unique ID": "gge27",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I30",
+        "DeviceName": "PZ254V-11-04P",
+        "FootprintName": "HDR-TH_4P-P2.54-V-M",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA3"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PA2"
+        }
+      }
+    },
+    "gge28": {
+      "props": {
+        "Footprint": "87d22528c7292175",
+        "Designator": "H7",
+        "LCSC Part Name": "",
+        "Supplier Part": "C492401",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-02P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "e35305ec3aa84b66b849f914b715e73f|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR2.54-M-LI-1X2P",
+        "3D Model Transform": "200,100,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Name": "PZ254V-11-02P",
+        "Description": "",
+        "Device": "a6a0c776e3fae571",
+        "Unique ID": "gge28",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I31",
+        "DeviceName": "PZ254V-11-02P",
+        "FootprintName": "HDR-TH_2P-P2.54-V-M",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "5V"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge29": {
+      "props": {
+        "Footprint": "be6d100bd0037621",
+        "Designator": "H8",
+        "LCSC Part Name": "",
+        "Supplier Part": "C2937625",
+        "Manufacturer": "XFCN(兴飞)",
+        "Manufacturer Part": "PZ254V-11-03P",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "bd28a638fbd247be9398fd5d39c366ec|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "HDR-TH_3P-P2.54-V-M_PZ254V-11-03P",
+        "3D Model Transform": "300.3931,100,0,0,0,0,0,0,-118.11",
+        "Pin Structure": "",
+        "Pitch": "",
+        "Row Spacing": "",
+        "Circluar Pins/Square Pins": "",
+        "Mounting Type": "",
+        "Number of Rows": "",
+        "Number of Pins": "",
+        "Current Rating": "",
+        "Voltage Rating (Max)": "",
+        "Length of Mating Pin": "",
+        "Insulation Height": "",
+        "Length of End Connection Pin": "",
+        "Contact Material": "",
+        "Contact Plating": "",
+        "Operating Temperature": "",
+        "Color": "",
+        "Supplementary Features": "",
+        "Name": "PZ254V-11-03P",
+        "Description": "",
+        "Device": "7dabb8ee95d12020",
+        "Unique ID": "gge29",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I32",
+        "DeviceName": "PZ254V-11-03P",
+        "FootprintName": "HDR-TH_3P-P2.54-V-M_PZ254V-11-03P",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "5V"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA12"
+        }
+      }
+    },
+    "gge3": {
+      "props": {
+        "Footprint": "ffc78894590d84c8",
+        "Designator": "J1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C9900016950",
+        "Manufacturer": "",
+        "Manufacturer Part": "KF301-2P接线端子",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "ef7ead88b0f2448d904975b26718870f|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "CONN-TH_XY301V-A-5.0-2P",
+        "3D Model Transform": "417.322,299.212,0,0,0,0,11.811,-7.835,-157.48",
+        "Name": "KF301-2P接线端子",
+        "Description": "",
+        "Device": "c2b17a37f0d672e3",
+        "Unique ID": "gge3",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I6",
+        "DeviceName": "KF301-2P接线端子",
+        "FootprintName": "CONN-TH_XY301V-A-5.0-2P",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "5V"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge2": {
+      "props": {
+        "Footprint": "3b7a0fbb57acda7a",
+        "Designator": "OLED1",
+        "Add into BOM": "yes",
+        "Name": "",
+        "Supplier Footprint": "插件",
+        "3D Model": "79c000fdb68d45a296c2e9bedf4f9055|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "0.96OLED_4P",
+        "3D Model Transform": "1393.69792,1318.895,0,0,0,0,0,-560.079,-137.795",
+        "Description": "",
+        "Device": "e5aeb7b54219cbbe",
+        "Unique ID": "gge2",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I3",
+        "DeviceName": "0.96OLED模块_4P",
+        "FootprintName": "0.96OLED_4P",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PB8"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PB9"
+        }
+      }
+    },
+    "gge17": {
+      "props": {
+        "Name": "",
+        "Designator": "R3",
+        "Footprint": "4c44d09cae9a617c",
+        "LCSC Part Name": "",
+        "Supplier Part": "C17513",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0805W8F1001T5E",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "37a81e68749a4138bd2dfa6897b24b85|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0805_L2.0-W1.3-H0.6",
+        "3D Model Transform": "78.74,51.181,0,0,0,0,0,-0.0005,0",
+        "Type": "",
+        "Value": "",
+        "Tolerance": "",
+        "Power(Watts)": "",
+        "Overload Voltage (Max)": "",
+        "Temperature Coefficient": "",
+        "Operating Temperature Range": "",
+        "Description": "",
+        "Device": "42d36ddf461dec03",
+        "Unique ID": "gge17",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I20",
+        "DeviceName": "0805W8F1001T5E",
+        "FootprintName": "R0805",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Name",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PA1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge18": {
+      "props": {
+        "Name": "",
+        "Designator": "R4",
+        "Footprint": "4c44d09cae9a617c",
+        "LCSC Part Name": "",
+        "Supplier Part": "C17513",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0805W8F1001T5E",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "3D Model": "37a81e68749a4138bd2dfa6897b24b85|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "R0805_L2.0-W1.3-H0.6",
+        "3D Model Transform": "78.74,51.181,0,0,0,0,0,-0.0005,0",
+        "Type": "",
+        "Value": "",
+        "Tolerance": "",
+        "Power(Watts)": "",
+        "Overload Voltage (Max)": "",
+        "Temperature Coefficient": "",
+        "Operating Temperature Range": "",
+        "Description": "",
+        "Device": "42d36ddf461dec03",
+        "Unique ID": "gge18",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I21",
+        "DeviceName": "0805W8F1001T5E",
+        "FootprintName": "R0805",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Name",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "LED2_A"
+        }
+      }
+    },
+    "gge30": {
+      "props": {
+        "Footprint": "ff1bd1db0b993a73",
+        "Designator": "U1",
+        "LCSC Part Name": "",
+        "Supplier Part": "C9900077949",
+        "Manufacturer": "",
+        "Manufacturer Part": "STM32F103C8T6-Card",
+        "Supplier Footprint": "",
+        "JLCPCB Part Class": "",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Name": "STM32F103C8T6-Card",
+        "3D Model": "70cdd142a616427fa7f75b03dcb28559|0819f05c4eef4c71ace90d822a990e87",
+        "3D Model Title": "CONN-TH_L53.3-W22.9_STM32F103C8T6-CARD",
+        "3D Model Transform": "2310.042,898.9982,0,0,0,0,90.551,0,-236.22",
+        "Description": "",
+        "Device": "1bd988fbc8db7bda",
+        "Unique ID": "gge30",
+        "Reuse Block": "",
+        "Group ID": "",
+        "Channel ID": "$1I34",
+        "DeviceName": "STM32F103C8T6-Card",
+        "FootprintName": "CONN-TH_L53.3-W22.9_STM32F103C8T6-CARD",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "footprintAttrKeys": [
+        "Footprint",
+        "Designator"
+      ],
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PB12"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PB13"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PB14"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PB15"
+        },
+        "5": {
+          "name": "",
+          "number": "5",
+          "net": "GND"
+        },
+        "6": {
+          "name": "",
+          "number": "6",
+          "net": "PA9"
+        },
+        "7": {
+          "name": "",
+          "number": "7",
+          "net": "PA10"
+        },
+        "8": {
+          "name": "",
+          "number": "8",
+          "net": "PA11"
+        },
+        "9": {
+          "name": "",
+          "number": "9",
+          "net": "PA12"
+        },
+        "10": {
+          "name": "",
+          "number": "10",
+          "net": ""
+        },
+        "11": {
+          "name": "",
+          "number": "11",
+          "net": ""
+        },
+        "12": {
+          "name": "",
+          "number": "12",
+          "net": ""
+        },
+        "13": {
+          "name": "",
+          "number": "13",
+          "net": ""
+        },
+        "14": {
+          "name": "",
+          "number": "14",
+          "net": "PB6"
+        },
+        "15": {
+          "name": "",
+          "number": "15",
+          "net": ""
+        },
+        "16": {
+          "name": "",
+          "number": "16",
+          "net": "PB8"
+        },
+        "17": {
+          "name": "",
+          "number": "17",
+          "net": "PB9"
+        },
+        "18": {
+          "name": "",
+          "number": "18",
+          "net": "5V"
+        },
+        "19": {
+          "name": "",
+          "number": "19",
+          "net": "GND"
+        },
+        "20": {
+          "name": "",
+          "number": "20",
+          "net": "3V3"
+        },
+        "21": {
+          "name": "",
+          "number": "21",
+          "net": "PB10"
+        },
+        "22": {
+          "name": "",
+          "number": "22",
+          "net": "PB11"
+        },
+        "23": {
+          "name": "",
+          "number": "23",
+          "net": "GND"
+        },
+        "24": {
+          "name": "",
+          "number": "24",
+          "net": "3V3"
+        },
+        "25": {
+          "name": "",
+          "number": "25",
+          "net": ""
+        },
+        "26": {
+          "name": "",
+          "number": "26",
+          "net": "PA1"
+        },
+        "27": {
+          "name": "",
+          "number": "27",
+          "net": "PA2"
+        },
+        "28": {
+          "name": "",
+          "number": "28",
+          "net": "PA3"
+        },
+        "29": {
+          "name": "",
+          "number": "29",
+          "net": "PA4"
+        },
+        "30": {
+          "name": "",
+          "number": "30",
+          "net": "PA5"
+        },
+        "31": {
+          "name": "",
+          "number": "31",
+          "net": "PA6"
+        },
+        "32": {
+          "name": "",
+          "number": "32",
+          "net": "PA7"
+        },
+        "33": {
+          "name": "",
+          "number": "33",
+          "net": "PB0"
+        },
+        "34": {
+          "name": "",
+          "number": "34",
+          "net": "PB1"
+        },
+        "35": {
+          "name": "",
+          "number": "35",
+          "net": "PB10"
+        },
+        "36": {
+          "name": "",
+          "number": "36",
+          "net": "PB11"
+        },
+        "37": {
+          "name": "",
+          "number": "37",
+          "net": "NRST"
+        },
+        "38": {
+          "name": "",
+          "number": "38",
+          "net": "3V3"
+        },
+        "39": {
+          "name": "",
+          "number": "39",
+          "net": "GND"
+        },
+        "40": {
+          "name": "",
+          "number": "40",
+          "net": "GND"
+        }
+      }
+    }
+  },
+  "designRule": {
+    "trackPhysics": {
+      "copperThickness1oz": {
+        "name": "copperThickness1oz",
+        "isDefault": true,
+        "unit": "mm",
+        "strokeValue": {
+          "1": {
+            "default": 0.254,
+            "min": 0.127,
+            "max": 2.54
+          }
+        }
+      },
+      "copperThickness2oz": {
+        "name": "copperThickness2oz",
+        "isDefault": false,
+        "unit": "mm",
+        "strokeValue": {
+          "1": {
+            "default": 0.254,
+            "min": 0.20299934,
+            "max": 2.54
+          }
+        }
+      }
+    },
+    "netRule": {
+      "3V3": {
+        "net": "3V3",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "5V": {
+        "net": "5V",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "LED2_A": {
+        "net": "LED2_A",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA4": {
+        "net": "PA4",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA5": {
+        "net": "PA5",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA7": {
+        "net": "PA7",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA6": {
+        "net": "PA6",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB0": {
+        "net": "PB0",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB11": {
+        "net": "PB11",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB10": {
+        "net": "PB10",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA10": {
+        "net": "PA10",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA9": {
+        "net": "PA9",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB1": {
+        "net": "PB1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB6": {
+        "net": "PB6",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB15": {
+        "net": "PB15",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB14": {
+        "net": "PB14",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB13": {
+        "net": "PB13",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB12": {
+        "net": "PB12",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA11": {
+        "net": "PA11",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA3": {
+        "net": "PA3",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA2": {
+        "net": "PA2",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA12": {
+        "net": "PA12",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB9": {
+        "net": "PB9",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PB8": {
+        "net": "PB8",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA1": {
+        "net": "PA1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "NRST": {
+        "net": "NRST",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "GND": {
+        "net": "GND",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      }
+    }
+  },
+  "netClass": {},
+  "equalLengthNetGroup": {},
+  "differentialPair": {}
+}

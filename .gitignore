@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Personal biometric data and trained model
+face/python/img/
+face/python/trainer/trainer.yml
+test_cam.jpg
+
+# Local caches, logs and temporary files
+_eda_work/
+capture_stdout.log
+capture_stderr.log
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Build outputs and IDE settings
+Objects/
+Listings/
+DebugConfig/
+.idea/
+*.uvguix.*
+*.uvoptx
+
+# OS files
+Thumbs.db
+Desktop.ini
